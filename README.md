@@ -4,4 +4,4 @@
 
 - LinkedIn: [Silvio no LinkedIn](https://www.linkedin.com/in/silvio-cruz-933234280/)
 
-- whatsapp: [whatsapp](https://meu-zapp.vercel.app/
+- whatsapp: [whatsapp](https://meu-zapp.vercel.app/)
