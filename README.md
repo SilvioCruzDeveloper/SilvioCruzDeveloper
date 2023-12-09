@@ -1,26 +1,10 @@
 # Olá, eu sou o Silvio! 👋
 
-## Sobre Mim
-
-Sou um apaixonado desenvolvedor Front-end com um forte desejo de criar experiências web incríveis. Minha jornada na programação começou quando...
-
-## Tecnologias
-
-- HTML, CSS, JavaScript
-- React.js, Vue.js
-  -...
-
-## Projetos Destacados
-
-- [Projeto 1](link_do_projeto_1) - Breve descrição.
-- [Projeto 2](link_do_projeto_2) - Breve descrição.
-  -...
-
 ## Contato
 
-- LinkedIn: [Silvio no LinkedIn](link_do_seu_linkedin)
-- Twitter: [@SeuUsuarioNoTwitter](link_do_seu_twitter)
-  -...
+- LinkedIn: [Silvio no LinkedIn](https://www.linkedin.com/in/silvio-cruz-933234280/)
+
+- whatsapp: [whatsapp](https://meu-zapp.vercel.app/
 
 ## Estatísticas do GitHub
 
