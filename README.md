@@ -2,6 +2,4 @@
 
 ## Contato
 
-- LinkedIn: [Silvio no LinkedIn](https://www.linkedin.com/in/silvio-cruz-933234280/)
-
-- whatsapp: [whatsapp](https://meu-zapp.vercel.app/)
+[[!Whatzapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]()
