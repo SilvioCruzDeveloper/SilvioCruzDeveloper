@@ -13,9 +13,9 @@
   🦄 Linguagens: JavaScript, PHP , Python , HTML , CSS
 </p>
 
-# Portifolio: https://portifolio-silvio-cruz.vercel.app/
+### Portifolio: https://portifolio-silvio-cruz.vercel.app/
 
-# linkedin: https://www.linkedin.com/in/silvio-cruz-933234280/
+### linkedin: https://www.linkedin.com/in/silvio-cruz-933234280/
 
 <p align="left">💌Entre En contato pelo meu WhatsApp ou Gmail:⤵️</p>
 
