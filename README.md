@@ -1,5 +1,4 @@
 ## Olá! Eu sou Silvio Cruz 👋
-
 <img
   src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"
   alt="ilustração de um computador"
@@ -20,5 +19,4 @@
   </a>
   
 </p>
-
-## Olá! Eu sou Silvio Cruz 👋
+## Gmail: silviocruz0508@gmail.com
