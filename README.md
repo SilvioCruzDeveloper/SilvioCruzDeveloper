@@ -10,7 +10,7 @@
 />
 
 <p align="left">
-  🦄 Linguagens: JavaScript, PHP , Python , HTML , CSS
+  🦄 Linguagens: JavaScript, PHP , ajax, VueJS ,Mysql,  Python , HTML , CSS
 </p>
 
 ### Portifolio: https://portifolio-silvio-cruz.vercel.app/
