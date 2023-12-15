@@ -1,4 +1,4 @@
-# Olá! Eu sou Silvio Cruz 👋
+## Olá! Eu sou Silvio Cruz 👋
 
 <img
   src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"
@@ -7,18 +7,10 @@
 />
 
 <p align="left">
-  Faça uma breve apresentação sua com o seu nome e não esqueça a
-  <strong>Sua área</strong>.<br />
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+  🦄 Linguagens: JavaScript, PHP , Python , HTML , CSS
 </p>
 
-<p align="left">
-  🦄 Linguagens: Coloque as linguagens que você desenvolve.
-</p>
-
-<p align="left">💼 Ferramentas: Coloque as suas ferramentas de trabalho.</p>
-
-<p align="left">💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️</p>
+<p align="left">💌Entre En contato pelo meu WhatsApp ou Gmail: ⤵️</p>
 
 <a href="https://meu-zapp.vercel.app/" title="WhatsApp" target="_blank">
     <img
@@ -26,4 +18,5 @@
       alt="WhatsApp"
     />
   </a>
+  #Gmail: silvioalberto0508@gmail.com
 </p>
