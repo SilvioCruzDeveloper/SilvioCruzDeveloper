@@ -20,4 +20,5 @@
   </a>
   
 </p>
-## Gmail: silvioalberto0508@gmail.com
+
+## Olá! Eu sou Silvio Cruz 👋
