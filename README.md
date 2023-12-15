@@ -3,8 +3,8 @@
   src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"
   alt="ilustração de um computador"
   alt="ilustração de um computador"
-  min-width="400px"
-  max-width="400px"
+  min-width="200px"
+  max-width="200px"
   width="400px"
   align="right"
 />
