@@ -24,4 +24,4 @@
   
 </p>
 
-## Gmail: silviocruz0508@gmail.com
+## Email: silviocruz0508@gmail.com
