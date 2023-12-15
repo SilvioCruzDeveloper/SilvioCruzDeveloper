@@ -11,7 +11,7 @@ Fique à vontade para explorar os projetos aqui no meu GitHub!
 Você pode entrar em contato comigo através dos seguintes meios:
 
 - **E-mail:** [silviocruz0508@gmail.com](mailto:silviocruz0508@gmail.com)
-- **WhatsApp:**[Whatsapp](link_https://meu-zapp.vercel.app/)
+- **WhatsApp:**[Whatsapp](mailto:https://meu-zapp.vercel.app/)
 
 Não hesite em me contatar para discutir colaborações, oportunidades ou apenas para trocar ideias sobre tecnologia. Estou sempre aberto a novas conexões!
 
