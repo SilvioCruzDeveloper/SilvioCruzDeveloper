@@ -1,4 +1,4 @@
-## Olá! Eu sou Silvio Cruz 👋
+## Silvio Cruz Aqui 👋
 <img
   src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"
   alt="ilustração de um computador"
@@ -9,7 +9,7 @@
   🦄 Linguagens: JavaScript, PHP , Python , HTML , CSS
 </p>
 
-<p align="left">💌Entre En contato pelo meu WhatsApp ou Gmail: ⤵️</p>
+<p align="left">💌Entre En contato pelo meu WhatsApp ou Gmail:⤵️</p>
 
 <a href="https://meu-zapp.vercel.app/" title="WhatsApp" target="_blank">
     <img
