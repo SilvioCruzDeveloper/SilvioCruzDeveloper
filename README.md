@@ -28,17 +28,7 @@
     />
   </a>
 
-  <a
-    href="https://www.linkedin.com/feed/?legoTrackingToken=30NfmlWqldVomNMsSBA9z0Kc3RBsCZzkTsCfn9xk6NBkDsCfmhLjmNBkDsCejAVejAZp6lQsSlRsmlirnlK9AVfilh9kQZgfnB2sClAsAZQpmtAqnsCqT9LtRZLt5ZKpn1LnP9Sp65Mq6dKtm5Ifmh9t6lDp6BT9z4ZrCZFt6BPrR1QpmtAqnsCc2UMfmlOrSdjsCsCfn9xk6NBkD9D9zRArQRIpl9OpOoMfmVLqnhFsSZgs7lLsCsCejAVejAZp6lQsSlRsmlirnles7lLsCsCsSVLqnhzojRAin1RrT9D9AVfilh9kQZgfnB2sClAsCYCt6NRompBp3RAinhKpmRDpncCsS9LqzRAinhLr7cCt6NRompBp3RAinhRrTBxr2oOtChxs6xzrDlxr3RBrm5epmtxs2pEt7tLsCsZp4BMs64Ce34Sdj4Nfmh9rCZFsT9BtyoRdPARe34Td34Nfmh9tioTdz1CpzkSozdxoz8JdjkQoyQTpmkQbmcRdjkJozARpjASdjAZp4BQu6lQrCZz&trk=opento_lp"
-    title="LinkedIn" target="_blank"
-  >
-    <img
-      src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
-  </a>
-
-  <a href="https://meu-zapp.vercel.app/" title="WhatsApp" target="_blank">
+<a href="https://meu-zapp.vercel.app/" title="WhatsApp" target="_blank">
     <img
       src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white"
       alt="WhatsApp"
