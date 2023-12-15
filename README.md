@@ -1,17 +1,12 @@
 # Olá! Eu sou Silvio Cruz 👋
 
-<style>
-    img{
-        border: 1px solid rgb(142, 142, 142);
-        border-radius: 20px;
-    }
-</style>
+
 <img
   src="https://i.pinimg.com/originals/84/cf/45/84cf459061b9229caef85e2d26aaa67d.gif"
   alt="ilustração de um computador"
   
-  min-width="350px"
-  max-width="350px"
+  min-width="400px"
+  max-width="400px"
   width="400px"
   align="right"
 />
