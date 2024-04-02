@@ -27,3 +27,5 @@
 </p>
 
 ## Email: silviocruz0508@gmail.com
+
+## Antes de conferir meus repositórios, saiba que faço push de quase tudo o que estudo, então não se assuste rsrsrs. Ainda vou arrumar. 😄
