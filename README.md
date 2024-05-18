@@ -62,23 +62,9 @@ Sou um desenvolvedor apaixonado por tecnologia e aprendizado contínuo. Adoro ex
 ---
 
 ## 📊 Minhas Estatísticas no GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SilvioCruzDeveloper&show_icons=true&theme=radical" alt="Estatísticas do GitHub"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilvioCruzDeveloper&layout=compact&theme=radical" alt="Linguagens mais Usadas"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SilvioCruzDeveloper&theme=radical" alt="Commits por Ano"/>
-</p>
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=SilvioCruzDeveloper&theme=radical" alt="Estatísticas de Contribuições"/>
-</p>
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=SilvioCruzDeveloper&theme=radical" alt="Gráfico de Atividade"/>
-</p>
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SilvioCruzDeveloper&show_icons=true&theme=radical)
+![Linguagens mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SilvioCruzDeveloper&layout=compact&theme=radical)
+![Commits por Ano](https://github-readme-streak-stats.herokuapp.com/?user=SilvioCruzDeveloper&theme=radical)
+![Estatísticas de Contribuições](https://github-contributor-stats.vercel.app/api?username=SilvioCruzDeveloper&theme=radical)
 
 ---
-
-![Snake animation](https://github.com/SilvioCruzDeveloper/SilvioCruzDeveloper/blob/output/github-contribution-grid-snake.svg)
