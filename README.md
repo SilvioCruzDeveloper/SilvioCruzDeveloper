@@ -54,11 +54,12 @@
 ![Malwarebytes](https://img.shields.io/badge/-Malwarebytes-000000?style=flat-square&logo=malwarebytes&logoColor=white)
 ---
 
-### Estatísticas
+### Estatísticas do GitHub
 
-[![Estatísticas do GitHub de SeuNomeDeUsuário](https://github-readme-stats.vercel.app/api?username=SeuNomeDeUsuário)](https://github.com/anuraghazra/github-readme-stats)
+[![Estatísticas do GitHub de SilvioCruzDeveloper](https://github-readme-stats.vercel.app/api?username=SilvioCruzDeveloper)](https://github.com/SilvioCruzDeveloper)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeuNomeDeUsuário)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SilvioCruzDeveloper)](https://github.com/SilvioCruzDeveloper)
+
 
 
 ---
