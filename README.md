@@ -62,6 +62,79 @@
 </p>
 
 
+# Fogo de Doom em JavaScript
+
+Este é um exemplo de como implementar o efeito visual de "fogo de Doom" em JavaScript. Este código cria uma animação de fogo usando HTML5 Canvas.
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Doom Fire</title>
+    <style>
+        canvas {
+            background-color: black;
+            display: block;
+            margin: auto;
+        }
+    </style>
+</head>
+<body>
+    <canvas id="fireCanvas"></canvas>
+    <script>
+        const fireWidth = 80;
+        const fireHeight = 40;
+        const firePixels = new Array(fireWidth * fireHeight).fill(0);
+
+        function start() {
+            const canvas = document.getElementById('fireCanvas');
+            const ctx = canvas.getContext('2d');
+            canvas.width = fireWidth;
+            canvas.height = fireHeight;
+
+            setInterval(updateFire, 50);
+
+            function updateFire() {
+                for (let x = 0; x < fireWidth; x++) {
+                    for (let y = 1; y < fireHeight; y++) {
+                        spreadFire(getPixelIndex(x, y));
+                    }
+                }
+                renderFire();
+            }
+
+            function spreadFire(pixelIndex) {
+                const decay = Math.floor(Math.random() * 3);
+                const belowPixelIndex = pixelIndex + fireWidth;
+                if (belowPixelIndex < fireWidth * fireHeight) {
+                    const belowPixelFireIntensity = firePixels[belowPixelIndex];
+                    const newFireIntensity = Math.max(belowPixelFireIntensity - decay, 0);
+                    firePixels[pixelIndex - decay] = newFireIntensity;
+                }
+            }
+
+            function renderFire() {
+                for (let x = 0; x < fireWidth; x++) {
+                    for (let y = 0; y < fireHeight; y++) {
+                        const pixelIndex = getPixelIndex(x, y);
+                        const fireIntensity = firePixels[pixelIndex];
+                        ctx.fillStyle = `rgb(255,${Math.max(fireIntensity * 6, 0)},0)`;
+                        ctx.fillRect(x, fireHeight - y, 1, 1);
+                    }
+                }
+            }
+
+            function getPixelIndex(x, y) {
+                return x + (y * fireWidth);
+            }
+        }
+
+        start();
+    </script>
+</body>
+</html>
 
 
 
