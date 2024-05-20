@@ -56,6 +56,10 @@
 
 [![Silvio Cruz's GitHub stats](https://github-readme-stats.vercel.app/api?username=SilvioCruzDeveloper&show_icons=true&theme=radical)](https://github.com/SilvioCruzDeveloper)
 
+[![Silvio Cruz's GitHub stats](https://github-readme-stats.vercel.app/api?username=SilvioCruzDeveloper&show_icons=true&theme=radical&hide=html,css)](https://github.com/SilvioCruzDeveloper)
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilvioCruzDeveloper&layout=compact&theme=radical" />
 
 
 
