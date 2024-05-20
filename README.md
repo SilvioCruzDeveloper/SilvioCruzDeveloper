@@ -56,10 +56,12 @@
 
 ## 📊 Minhas Estatísticas no GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SilvioCruzDeveloper&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilvioCruzDeveloper&layout=compact&theme=radical" alt="Linguagens mais Usadas" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SilvioCruzDeveloper&theme=radical" alt="Commits por Ano" />
   <img src="https://github-contributor-stats.vercel.app/api?username=SilvioCruzDeveloper&theme=radical" alt="Estatísticas de Contribuições" />
+
+  [![Estatísticas do Silvio Cruz no GitHub](https://github-readme-stats.vercel.app/api?username=SilvioCruzDeveloper&show_icons=true&theme=radical)](https://github.com/SilvioCruzDeveloper)
+
 </p>
 
 ---
