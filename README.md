@@ -47,6 +47,8 @@
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Arduino](https://img.shields.io/badge/-Arduino-3776AB?style=flat-square&logo=Arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/-ESP32-CC342D?style=flat-square&logo=ESP32&logoColor=white)
+
 
 **Suporte e Manutenção de Computadores:**
 ![AnyDesk](https://img.shields.io/badge/-AnyDesk-0078D6?style=flat-square&logo=anydesk&logoColor=white)
