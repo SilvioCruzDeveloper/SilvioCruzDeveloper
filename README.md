@@ -1,4 +1,6 @@
-# Silvio Cruz Aqui 👋
+# Silvio Cruz Aqui 👋  
+![Texto alternativo](https://i.gifer.com/3AyY.gif)
+
 
 ### [Portfólio](https://portifolio-silvio-cruz.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/silvio-cruz-933234280/)
 
@@ -61,4 +63,4 @@
 
 </p>
 
-<iframe width="560" height="315" src="URL_DO_SEU_VÍDEO_MIFREME" frameborder="0" allowfullscreen></iframe>
+
