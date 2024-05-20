@@ -2,7 +2,7 @@
 
 <p align="center">
   
-  <img src="https://i.gifer.com/3AyY.gif" alt="Coding Gif"/>
+  <img src="https://media.licdn.com/dms/image/D4D12AQH4mcQALwgZ7Q/article-cover_image-shrink_600_2000/0/1691989932071?e=2147483647&v=beta&t=uwm5lxFiqURXuzG_xnf9hrIr-_sojSaQ4ggruUAYsmU" alt="Coding Gif"/>
 </p>
 
 
