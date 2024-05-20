@@ -1,8 +1,7 @@
-# Silvio Cruz Aqui 👋   
-
-<p style="float: right;">
+# Silvio Cruz Aqui 👋   <p style="float: right;">
   <img src="https://media.licdn.com/dms/image/D4D12AQH4mcQALwgZ7Q/article-cover_image-shrink_600_2000/0/1691989932071?e=2147483647&v=beta&t=uwm5lxFiqURXuzG_xnf9hrIr-_sojSaQ4ggruUAYsmU" alt="Coding Gif" height="150" width="200" />
 </p>
+
 
 
 
