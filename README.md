@@ -1,6 +1,8 @@
 # Silvio Cruz Aqui 👋  
-<img srf= " https://i.gifer.com/3AyY.gif" >
 
+<p align="center">
+  <img src="https://i.gifer.com/3AyY.gif" alt="Coding Gif"/>
+</p>
 
 
 ### [Portfólio](https://portifolio-silvio-cruz.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/silvio-cruz-933234280/)
