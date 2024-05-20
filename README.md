@@ -20,8 +20,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-3776AB?style=flat-square&logo=Arduino&logoColor=white)
 
-![ardoino](https://img.shields.io/badge/-ardoino-3776AB?style=flat-square&logo=Ardoino&logoColor=white)
 
 **Front-end:**
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
