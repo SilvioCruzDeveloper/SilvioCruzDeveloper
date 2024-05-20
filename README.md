@@ -1,6 +1,7 @@
 # Silvio Cruz Aqui 👋  
 
 <p align="center">
+  
   <img src="https://i.gifer.com/3AyY.gif" alt="Coding Gif"/>
 </p>
 
