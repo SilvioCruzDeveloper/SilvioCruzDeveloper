@@ -31,6 +31,7 @@
 
 **Back-end:**
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
@@ -45,30 +46,4 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-
----
-
-<div align="right">
-
-## 📊 Minhas Estatísticas no GitHub
-
-<img src="https://github-readme-stats.vercel.app/api?username=SilvioCruzDeveloper&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SilvioCruzDeveloper&theme=radical" alt="Commits por Ano" />
-
-<img src="https://github-contributor-stats.vercel.app/api?username=SilvioCruzDeveloper&theme=radical" alt="Estatísticas de Contribuições" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilvioCruzDeveloper&layout=compact&theme=radical&langs_count=4&exclude_repo=SilvioCruzDeveloper.github.io" alt="Linguagens mais Usadas" />
-
-</div>
-
----
-
-## 🏆 Troféus do GitHub
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SilvioCruzDeveloper&theme=radical" alt="Troféus do GitHub" />
-</p>
-
----
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=
