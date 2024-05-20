@@ -54,11 +54,14 @@
 ![Malwarebytes](https://img.shields.io/badge/-Malwarebytes-000000?style=flat-square&logo=malwarebytes&logoColor=white)
 ---
 
-### Estatísticas do GitHub
+### Estatísticas do GitHub em um Lindo Painel de Pizza 🍕
 
-[![Estatísticas do GitHub de SilvioCruzDeveloper](https://github-readme-stats.vercel.app/api?username=SilvioCruzDeveloper)](https://github.com/SilvioCruzDeveloper)
+![Commits](https://img.shields.io/github/commit-activity/m/SilvioCruzDeveloper/SilvioCruzDeveloper?color=green&label=Commits&logo=git&style=flat-square)
+![Issues](https://img.shields.io/github/issues/SilvioCruzDeveloper/SilvioCruzDeveloper?color=red&label=Issues&logo=github&style=flat-square)
+![Pull Requests](https://img.shields.io/github/issues-pr/SilvioCruzDeveloper/SilvioCruzDeveloper?color=blue&label=Pull%20Requests&logo=github&style=flat-square)
+![Contribuidores](https://img.shields.io/github/contributors/SilvioCruzDeveloper/SilvioCruzDeveloper?color=orange&label=Contribuidores&logo=github&style=flat-square)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SilvioCruzDeveloper)](https://github.com/SilvioCruzDeveloper)
+
 
 
 
