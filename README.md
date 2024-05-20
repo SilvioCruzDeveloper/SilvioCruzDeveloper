@@ -54,20 +54,11 @@
 ![Malwarebytes](https://img.shields.io/badge/-Malwarebytes-000000?style=flat-square&logo=malwarebytes&logoColor=white)
 ---
 
-## 📊 Minhas Estatísticas no GitHub
-<p>
+### Estatísticas
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+[![Estatísticas do GitHub de SeuNomeDeUsuário](https://github-readme-stats.vercel.app/api?username=SeuNomeDeUsuário)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeuNomeDeUsuário)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
-</p>
-
-<p> 
-
-  [![Estatísticas do Silvio Cruz no GitHub](https://github-readme-stats.vercel.app/api?username=SilvioCruzDeveloper&show_icons=true&theme=algolia)](https://github.com/SilvioCruzDeveloper)
-
-</p>
 
 ---
