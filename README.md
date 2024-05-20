@@ -44,3 +44,9 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+**Suporte e Manutenção de Computadores:**
+![AnyDesk](https://img.shields.io/badge/-AnyDesk-0078D6?style=flat-square&logo=anydesk&logoColor=white)
+![TeamViewer](https://img.shields.io/badge/-TeamViewer-0A84FF?style=flat-square&logo=teamviewer&logoColor=white)
+![CCleaner](https://img.shields.io/badge/-CCleaner-2C2E5D?style=flat-square&logo=ccleaner&logoColor=white)
+![Malwarebytes](https://img.shields.io/badge/-Malwarebytes-000000?style=flat-square&logo=malwarebytes&logoColor=white)
