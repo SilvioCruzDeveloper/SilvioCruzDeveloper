@@ -90,7 +90,3 @@ Breve descrição do projeto 3, destacando suas funcionalidades e tecnologias ut
 - [Título do Artigo 1](https://linkdoartigo1.com) - Breve descrição do artigo 1.
 - [Título do Artigo 2](https://linkdoartigo2.com) - Breve descrição do artigo 2.
 - [Título do Artigo 3](https://linkdoartigo3.com) - Breve descrição do artigo 3.
-
----
-
-Espero que essas melhorias atendam às suas expectativas e tornem seu README mais atraente e informativo.
