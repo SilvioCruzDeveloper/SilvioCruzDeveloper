@@ -83,5 +83,5 @@ Sou um desenvolvedor apaixonado por tecnologia e aprendizado contínuo. Adoro ex
 ## ✨ Projetos Destacados
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=SilvioCruzDeveloper&repo=projeto-exemplo&theme=radical" alt="Projeto Exemplo" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SilvioCruzDeveloper&repo=outro-projeto&theme=radical" alt="Outro Projeto" />
+  <img src="https://projeto-haver-rodando.vercel.app/" alt="Outro Projeto" />
 </p>
