@@ -1,5 +1,6 @@
 # Silvio Cruz Aqui 👋  
-![Texto alternativo](https://i.gifer.com/3AyY.gif)
+<img srf= " https://i.gifer.com/3AyY.gif" >
+
 
 
 ### [Portfólio](https://portifolio-silvio-cruz.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/silvio-cruz-933234280/)
