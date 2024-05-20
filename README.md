@@ -50,3 +50,14 @@
 ![TeamViewer](https://img.shields.io/badge/-TeamViewer-0A84FF?style=flat-square&logo=teamviewer&logoColor=white)
 ![CCleaner](https://img.shields.io/badge/-CCleaner-2C2E5D?style=flat-square&logo=ccleaner&logoColor=white)
 ![Malwarebytes](https://img.shields.io/badge/-Malwarebytes-000000?style=flat-square&logo=malwarebytes&logoColor=white)
+---
+
+## 📊 Minhas Estatísticas no GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SilvioCruzDeveloper&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilvioCruzDeveloper&layout=compact&theme=radical" alt="Linguagens mais Usadas" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SilvioCruzDeveloper&theme=radical" alt="Commits por Ano" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=SilvioCruzDeveloper&theme=radical" alt="Estatísticas de Contribuições" />
+</p>
+
+---
