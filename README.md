@@ -15,8 +15,9 @@
 ---
 
 ## Sobre Mim
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" align="right" width="300px"/>
 Sou um desenvolvedor apaixonado por tecnologia e aprendizado contínuo. Adoro explorar novas ferramentas e frameworks para ampliar minhas habilidades. Atualmente, estou focado em desenvolvimento web e mobile, sempre buscando as melhores práticas e soluções inovadoras.
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" align="center" width="600px"/>
 
 ---
 
