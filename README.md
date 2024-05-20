@@ -2,7 +2,7 @@
 
 <p align="center">
   
-  <img src="https://i.gifer.com/3AyY.gif" alt="Coding Gif"/>
+  <img src="https://i.gifer.com/3AyY.mp4" alt="Coding Gif"/>
 </p>
 
 
