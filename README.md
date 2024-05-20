@@ -57,9 +57,31 @@ Sou um desenvolvedor apaixonado por tecnologia e aprendizado contínuo. Adoro ex
 ---
 
 ## 📊 Minhas Estatísticas no GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SilvioCruzDeveloper&show_icons=true&theme=radical)
-![Linguagens mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SilvioCruzDeveloper&layout=compact&theme=radical)
-![Commits por Ano](https://github-readme-streak-stats.herokuapp.com/?user=SilvioCruzDeveloper&theme=radical)
-![Estatísticas de Contribuições](https://github-contributor-stats.vercel.app/api?username=SilvioCruzDeveloper&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SilvioCruzDeveloper&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilvioCruzDeveloper&layout=compact&theme=radical" alt="Linguagens mais Usadas" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SilvioCruzDeveloper&theme=radical" alt="Commits por Ano" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=SilvioCruzDeveloper&theme=radical" alt="Estatísticas de Contribuições" />
+</p>
 
 ---
+
+## 🏆 Troféus do GitHub
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SilvioCruzDeveloper&theme=radical" alt="Troféus do GitHub" />
+</p>
+
+---
+
+## 📈 Atividade Recente
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=SilvioCruzDeveloper&theme=react-dark" alt="Gráfico de Atividade Recente" />
+</p>
+
+---
+
+## ✨ Projetos Destacados
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SilvioCruzDeveloper&repo=projeto-exemplo&theme=radical" alt="Projeto Exemplo" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SilvioCruzDeveloper&repo=outro-projeto&theme=radical" alt="Outro Projeto" />
+</p>
