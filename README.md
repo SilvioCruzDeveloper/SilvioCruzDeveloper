@@ -55,10 +55,9 @@
 ---
 
 ## 📊 Minhas Estatísticas no GitHub
-<p align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilvioCruzDeveloper&layout=compact&theme=radical" alt="Linguagens mais Usadas" />
+<p ">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SilvioCruzDeveloper&layout=compact)](https://github.com/SilvioCruzDeveloper)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SilvioCruzDeveloper&layout=compact)](https://github.com/SilvioCruzDeveloper)
 
 </p>
 
