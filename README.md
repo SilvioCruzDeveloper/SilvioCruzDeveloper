@@ -57,7 +57,12 @@
 ## 📊 Minhas Estatísticas no GitHub
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilvioCruzDeveloper&layout=compact&theme=radical" alt="Linguagens mais Usadas" />
- [![Estatísticas do Silvio Cruz no GitHub](https://github-readme-stats.vercel.app/api?username=SilvioCruzDeveloper&show_icons=true&theme=radical)](https://github.com/SilvioCruzDeveloper)
+</p>
+
+<p> 
+
+  [![Estatísticas do Silvio Cruz no GitHub](https://github-readme-stats.vercel.app/api?username=SilvioCruzDeveloper&show_icons=true&theme=algolia)](https://github.com/SilvioCruzDeveloper)
+
 </p>
 
 ---
