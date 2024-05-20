@@ -2,7 +2,7 @@
 
 ### [Portfólio](https://portifolio-silvio-cruz.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/silvio-cruz-933234280/)
 
-<p align="left">💌 Entre em contato /p>
+<p align="left">💌 Entre em contato </p>
 
 <a href="https://wa.me/5511999999999">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
