@@ -20,7 +20,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-3776AB?style=flat-square&logo=Arduino&logoColor=white)
+
 
 
 **Front-end:**
@@ -46,6 +46,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Arduino](https://img.shields.io/badge/-Arduino-3776AB?style=flat-square&logo=Arduino&logoColor=white)
 
 **Suporte e Manutenção de Computadores:**
 ![AnyDesk](https://img.shields.io/badge/-AnyDesk-0078D6?style=flat-square&logo=anydesk&logoColor=white)
