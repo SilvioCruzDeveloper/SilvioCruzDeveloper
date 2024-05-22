@@ -14,10 +14,10 @@
 
 <a href="https://meu-zapp.vercel.app/">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=for-the-badge&labelColor=25d366&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-</a>
-<a href="mailto:silviocruz0508@gmail.com">
+</a><a href="mailto:silviocruz0508@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
+
 
 ---
 
