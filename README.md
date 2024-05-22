@@ -53,7 +53,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Arduino](https://img.shields.io/badge/-Arduino-3776AB?style=flat-square&logo=Arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/-ESP32-CC342D?style=flat-square&logo=ESP32&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=\flat-square&logo=postman&logoColor=white)
 
 
 **Suporte e Manutenção de Computadores:**
